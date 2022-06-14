@@ -12,7 +12,6 @@
  <br>
  
  <p>
-  <a href="https://github.com/devicons/devicon" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" alt="WP" width="40" height="40"/>
    <a href="https://github.com/devicons/devicon" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="JS" width="40" height="40"/>
     <a href="https://github.com/devicons/devicon" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="HTML5" width="40" height="40"/>
   <a href="https://github.com/devicons/devicon" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="CSS3" width="40" height="40"/>
