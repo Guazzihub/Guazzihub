@@ -1,32 +1,68 @@
-<details><summary>Info</summary>
- <div align="center">
-  <a href="https://github.com/Guazzihub"> <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Guazzihub&hide=contribs,prs&count_private=true&hide_border=false&title_color=ff652f&icon_color=FFC000&bg_color=09131B&text_color=ffffff&border_color=171515&show_icons=true&custom_title=Commits">
-  
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guazzihub&layout=compact&langs_count=8&hide_border=false&title_color=ff652f&icon_color=FFC000&bg_color=09131B&text_color=ffffff&border_color=171515&show_icons=true&custom_title=Programming">      
-  
- </div>
-</details> 
- 
- <div align="center">
- 
- <br>
- 
- <p>
-   <a href="https://github.com/devicons/devicon" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="JS" width="40" height="40"/>
-    <a href="https://github.com/devicons/devicon" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="HTML5" width="40" height="40"/>
-  <a href="https://github.com/devicons/devicon" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="CSS3" width="40" height="40"/>
-  <a href="https://github.com/devicons/devicon" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+<div>
+<h3 align="center">Backend</h3>
 
-  
- <br>
-  
-  <a href="https://github.com/devicons/devicon" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/> 
-  <a href="https://github.com/devicons/devicon" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" alt="Node.js" width="40" height="40"/>
-  <a href="https://github.com/devicons/devicon" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40"/>
-  <a href="https://github.com/devicons/devicon" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="40" height="40"/> 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
-    
+</div>
 
+<br clear="both">
 
+<div>
+<h3 align="center">Frontend</h3>
 
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+</div>
+</div>
 
+<br clear="both">
+
+<div>
+<h3 align="center">Frameworks</h3>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/jquery/0769AD" height="40" alt="jquery logo"  />
+</div>
+</div>
+
+<br clear="both">
+
+<div>
+<h3 align="center">Tools</h3>
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="40" alt="yarn logo"  />
+</div>
+</div>
+
+<br clear="both">
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GuazziHub&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=rose_pine&hide_border=true&order=2&custom_title=Usage%20Rate" height="150" alt="languages graph"  />
+</div>
+
+<br clear="both">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/GuazziHub/GuazziHub/output/snake.svg" alt="Snake animation" />
+</div>
