@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GuazziHub&locale=en&hide_title=false&layout=compact&card_width=640&langs_count=6&theme=rose_pine&hide_border=true&order=2&custom_title=Usage%20Rate" height="300" alt="languages graph"  />
+</div>
+
 <div>
 <h3 align="left">Backend</h3>
 
@@ -54,12 +58,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="40" alt="yarn logo"  />
 </div>
-</div>
-
-<br clear="both">
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GuazziHub&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=rose_pine&hide_border=true&order=2&custom_title=Usage%20Rate" height="150" alt="languages graph"  />
 </div>
 
 <br clear="both">
