@@ -26,28 +26,43 @@
 
 <div>
   <h1 align="left">
- Frameworks: 
-    <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo" />
-    <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo" />
-    <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="bootstrap logo" />
-    <img src="https://cdn.simpleicons.org/jquery/0769AD" height="30" alt="jquery logo" />
-  </h3>
+    Frameworks: 
+    <a href="https://nodejs.org" target="_blank" title="Node.js">
+      <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo" />
+    </a>
+    <a href="https://expressjs.com" target="_blank" title="Express.js">
+      <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo" />
+    </a>
+    <a href="https://getbootstrap.com" target="_blank" title="Bootstrap">
+      <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="bootstrap logo" />
+    </a>
+    <a href="https://github.com/jquery/jquery" target="_blank" title="jQuery GitHub">
+      <img src="https://cdn.simpleicons.org/jquery/0769AD" height="30" alt="jquery logo" />
+    </a>
+  </h1>
 </div>
+
 
 <br clear="both">
 
 <div>
   <h1 align="left">
-    Tools:
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo" />
-    <img src="https://cdn.simpleicons.org/docker/2496ED" height="30" alt="docker logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="30" alt="yarn logo" />
-  </h3>
+    Tools: 
+    <a href="https://code.visualstudio.com/" target="_blank" title="Visual Studio Code">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo" />
+    </a>
+    <a href="https://www.docker.com/" target="_blank" title="Docker">
+      <img src="https://cdn.simpleicons.org/docker/2496ED" height="30" alt="docker logo" />
+    </a>
+    <a href="https://yarnpkg.com/" target="_blank" title="Yarn">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="30" alt="yarn logo" />
+    </a>
+  </h1>
 </div>
-  <div align="left">
 
-<br clear="both">
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/GuazziHub/GuazziHub/output/snake.svg" alt="Snake animation" />
+  <br clear="both">
+  
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/GuazziHub/GuazziHub/output/snake.svg" alt="Snake animation" />
 </div>
