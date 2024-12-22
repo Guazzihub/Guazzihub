@@ -36,7 +36,7 @@
     <a href="https://getbootstrap.com" target="_blank" title="Bootstrap">
       <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="bootstrap logo" />
     </a>
-    <a href="https://github.com/jquery/jquery" target="_blank" title="jQuery GitHub">
+    <a href="https://jquery.com/" target="_blank" title="jQuery GitHub">
       <img src="https://cdn.simpleicons.org/jquery/0769AD" height="30" alt="jquery logo" />
     </a>
   </h1>
