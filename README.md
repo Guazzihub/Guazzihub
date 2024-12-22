@@ -57,6 +57,10 @@
     <a href="https://yarnpkg.com/" target="_blank" title="Yarn">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="30" alt="yarn logo" />
     </a>
+    <a href="https://wordpress.org" target="_blank">
+      <img src="https://cdn.simpleicons.org/wordpress/21759B" height="30" alt="WordPress logo" />
+    </a>
+
   </h1>
 </div>
 
