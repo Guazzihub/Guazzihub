@@ -8,10 +8,10 @@
     <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo" />
     <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
-  </h3>
+  </h1>
 </div>
 
-<br clear="both">
+<brdw>
 
 <div>
   <h1 align="left">
@@ -19,10 +19,10 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
     <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo" />
-  </h3>
+  </h1>
 </div>
 
-<br clear="both">
+<br>
 
 <div>
   <h1 align="left">
@@ -42,8 +42,7 @@
   </h1>
 </div>
 
-
-<br clear="both">
+<br>
 
 <div>
   <h1 align="left">
@@ -64,10 +63,10 @@
   </h1>
 </div>
 
-
-  <br clear="both">
+<br>
+  
 <div>
-  <picture>
+  <picture align="left">
   <source
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/GuazziHub/GuazziHub/output/github-contribution-grid-snake-dark.svg"
@@ -76,5 +75,9 @@
     media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/GuazziHub/GuazziHub/output/github-contribution-grid-snake.svg"
   />
+   <img
+      src="https://raw.githubusercontent.com/GuazziHub/GuazziHub/output/github-contribution-grid-snake-dark.svg"
+      alt="Snake"
+    />
   </picture>
 </div>
