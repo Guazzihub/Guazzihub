@@ -1,7 +1,6 @@
 name: Generate Snake
 
 on:
-  # Executa em push na branch main e agendado diariamente
   push:
     branches:
       - main
@@ -9,26 +8,15 @@ on:
     - cron: "0 0 * * *"
 
 jobs:
-  generate:
+  generate-snake:
     runs-on: ubuntu-latest
-
     steps:
-      # Faz checkout do repositório
-      - name: Checkout repository
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v3
 
-      # Gera a cobra com cores personalizadas
-      - name: Generate Snake SVG
-        uses: Platane/snk/svg-output@v2
+      - uses: Platane/snk@v3
         with:
-          output: dist/github-contribution-grid-snake.svg
-          config: |
-            {
-              "palette": {
-                "snake": ["#FFC0CB"],        # Cobra: Rosa pastel
-                "dots": {
-                  "light": "#000000",       # Dots no tema claro: Preto
-                  "dark": "#FFFFFF"         # Dots no tema escuro: Branco
-                }
-              }
-            }
+          github_user_name: ${{ github.repository_owner }}
+
+          outputs: |
+            dist/github-snake.svg?color_snake=#FFD1DC&color_dots=black,black,black,black,black
+            dist/github-snake-dark.svg?color_snake=#FFD1DC&color_dots=white,white,white,white,white
