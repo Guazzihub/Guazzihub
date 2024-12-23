@@ -69,14 +69,14 @@
   <picture align="left">
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/GuazziHub/GuazziHub/output/github-contribution-grid-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/GuazziHub/GuazziHub/output/github-contribution-grid-snake.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/GuazziHub/GuazziHub/output/github-contribution-grid-snake.svg"
+    srcset="https://raw.githubusercontent.com/GuazziHub/GuazziHub/output/github-contribution-grid-snake-light.svg"
   />
    <img
-      src="https://raw.githubusercontent.com/GuazziHub/GuazziHub/output/github-contribution-grid-snake-dark.svg"
+      src="https://raw.githubusercontent.com/GuazziHub/GuazziHub/output/output/github-contribution-grid-snake.svg"
       alt="Snake"
     />
   </picture>
