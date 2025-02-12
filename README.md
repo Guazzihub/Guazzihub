@@ -86,6 +86,9 @@
     <a href="https://git-scm.com/" target="_blank">
       <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" height="40" alt="Git logo" />
     </a>
+    <a href="https://n8n.io/" target="_blank">
+      <img src="https://n8n.vn/wp-content/uploads/cropped-favicon-n8n.png" height="40" alt="N8N logo" />
+    </a>
     <a href="https://www.postman.com/" target="_blank">
       <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Postman.svg" height="40" alt="Postman logo" />
     </a>
