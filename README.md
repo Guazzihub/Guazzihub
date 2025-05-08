@@ -6,22 +6,22 @@
   <h1 align="left">
     Backend:  
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-      <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" height="40" alt="JavaScript logo" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
     </a>
     <a href="https://www.python.org/" target="_blank">
-      <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" height="40" alt="Python logo" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="python logo" />
     </a>
     <a href="https://www.mysql.com/" target="_blank">
-      <img src="https://icons.veryicon.com/png/o/system/inspur-cloud-icon/rds-mysql.png" height="40" alt="MySQL logo" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo" />
     </a>
     <a href="https://www.postgresql.org/" target="_blank">
-      <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/PostgreSQL-Dark.svg" height="40" alt="PostgreSQL logo" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" height="40" alt="postgresql logo" />
     </a>
     <a href="https://supabase.com/" target="_blank">
-      <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Supabase-Dark.svg" height="40" alt="Supabase logo" />
+      <img src="https://img.icons8.com/color/512/supabase.png" height="40" alt="Supabase logo" />
     </a>
     <a href="https://www.mongodb.com/" target="_blank">
-      <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MongoDB.svg" height="40" alt="MongoDB logo" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" height="40" alt="mongodb logo" />
     </a>
   </h1>
 </div>
@@ -32,13 +32,13 @@
   <h1 align="left">
     Frontend:
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-      <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" height="40" alt="HTML5 logo" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" alt="html5 logo" />
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-      <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" height="40" alt="CSS3 logo" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="40" alt="css3 logo" />
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-      <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" height="40" alt="JavaScript logo" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
     </a>
   </h1>
 </div>
@@ -49,19 +49,19 @@
   <h1 align="left">
     Frameworks: 
     <a href="https://nodejs.org/" target="_blank">
-      <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/NodeJS-Dark.svg" height="40" alt="Node.js logo" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" height="40" alt="nodejs logo" />
     </a>
     <a href="https://expressjs.com/" target="_blank">
       <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/ExpressJS-Dark.svg" height="40" alt="Express.js logo" />
     </a>
     <a href="https://jquery.com/" target="_blank">
-      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JQuery.svg" height="40" alt="jQuery logo" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" height="40" alt="jquery logo" />
     </a>
     <a href="https://getbootstrap.com/" target="_blank">
-      <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Bootstrap.svg" height="40" alt="Bootstrap logo" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" height="40" alt="bootstrap logo" />
     </a>
     <a href="https://tailwindcss.com/" target="_blank">
-      <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/TailwindCSS-Dark.svg" height="40" alt="Tailwind CSS logo" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo" />
     </a>
   </h1>
 </div>
@@ -72,34 +72,32 @@
   <h1 align="left">
     Tools: 
     <a href="https://code.visualstudio.com/" target="_blank">
-      <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" height="40" alt="VSCode logo" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" height="40" alt="vscode logo" />
     </a>
     <a href="https://www.docker.com/" target="_blank">
-      <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Docker.svg" height="40" alt="Docker logo" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="40" alt="docker logo" />
     </a>
     <a href="https://yarnpkg.com/" target="_blank">
-      <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Yarn-Dark.svg" height="40" alt="Yarn logo" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original-wordmark.svg" height="40" alt="yarn logo" />
     </a>
     <a href="https://wordpress.org/" target="_blank">
-      <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Wordpress.svg" height="40" alt="WordPress logo" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain-wordmark.svg" height="40" alt="wordpress logo" />
     </a>
     <a href="https://git-scm.com/" target="_blank">
-      <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" height="40" alt="Git logo" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height="40" alt="git logo" />
     </a>
     <a href="https://n8n.io/" target="_blank">
-      <img src="https://repocloud.io/static/apps/n8n/assets/logo.png" height="40" alt="N8N logo" />
+      <img src="https://repocloud.io/static/apps/n8n/assets/logo.png" height="40" alt="n8n logo" />
     </a>
     <a href="https://www.postman.com/" target="_blank">
-      <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Postman.svg" height="40" alt="Postman logo" />
+      <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" height="40" alt="postman logo" />
     </a>
     <a href="https://ubuntu.com/" target="_blank">
-      <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Ubuntu-Dark.svg" height="40" alt="Ubuntu logo" />
-    </a>
-    <a href="https://www.notion.so/" target="_blank">
-      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Notion-Dark.svg" height="40" alt="Notion logo" />
+      <img src="https://cdn.iconscout.com/icon/free/png-512/free-ubuntu-logo-icon-download-in-svg-png-gif-file-formats--wordmark-programming-langugae-freebies-pack-logos-icons-1175077.png" height="40" alt="ubuntu logo" />
     </a>
   </h1>
 </div>
+
 
 
 <br>
