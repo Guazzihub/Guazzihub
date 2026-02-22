@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GuazziHub&locale=en&hide_title=false&layout=compact&card_width=640&langs_count=6&theme=rose_pine&hide_border=true&order=2&custom_title=Usage%20Rate" height="300" alt="languages graph"  />
-</div>
-
 <div>
   <h1 align="left">
     Backend:  
@@ -16,6 +12,12 @@
     </a>
     <a href="https://www.postgresql.org/" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" height="40" alt="PostgreSQL logo" />
+    </a>
+    <a href="https://redis.io/" target="_blank">
+      <img src="https://www.svgrepo.com/show/354272/redis.svg" height="40" alt="Redis logo" />
+    </a>
+    <a href="https://www.oracle.com/br/database/" target="_blank">
+      <img src="https://www.svgrepo.com/show/355152/oracle.svg" height="40" alt="OracleDB logo" />
     </a>
     <a href="https://supabase.com/" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" height="40" alt="Supabase logo" />
@@ -52,7 +54,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain.svg" height="40" alt="Node.js logo" />
     </a>
     <a href="https://expressjs.com/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" height="40" alt="Express.js logo" />
+      <img src="https://www.guayerd.com/wp-content/uploads//2021/04/expressjs-logo.svg" height="40" alt="Express.js logo" />
     </a>
     <a href="https://jquery.com/" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-plain.svg" height="40" alt="jQuery logo" />
@@ -81,7 +83,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yarn/yarn-original.svg" height="40" alt="Yarn logo" />
     </a>
     <a href="https://wordpress.org/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" height="40" alt="WordPress logo" />
+      <img src="https://www.svgrepo.com/show/475696/wordpress-color.svg" height="40" alt="WordPress logo" />
     </a>
     <a href="https://git-scm.com/" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" alt="Git logo" />
