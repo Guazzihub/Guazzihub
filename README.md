@@ -85,9 +85,6 @@
     <a href="https://ubuntu.com/" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" height="40" alt="Ubuntu logo" />
     </a>
-    <a href="https://www.notion.so/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" height="40" alt="Notion logo" />
-    </a>
   </h1>
 </div>
 
