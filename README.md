@@ -16,14 +16,8 @@
     <a href="https://redis.io/" target="_blank">
       <img src="https://www.svgrepo.com/show/354272/redis.svg" height="40" alt="Redis logo" />
     </a>
-    <a href="https://www.oracle.com/br/database/" target="_blank">
-      <img src="https://www.svgrepo.com/show/355152/oracle.svg" height="40" alt="OracleDB logo" />
-    </a>
     <a href="https://supabase.com/" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" height="40" alt="Supabase logo" />
-    </a>
-    <a href="https://www.mongodb.com/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain.svg" height="40" alt="MongoDB logo" />
     </a>
   </h1>
 </div>
@@ -59,9 +53,6 @@
     <a href="https://jquery.com/" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-plain.svg" height="40" alt="jQuery logo" />
     </a>
-    <a href="https://getbootstrap.com/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap logo" />
-    </a>
     <a href="https://tailwindcss.com/" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind CSS logo" />
     </a>
@@ -78,9 +69,6 @@
     </a>
     <a href="https://www.docker.com/" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" height="40" alt="Docker logo" />
-    </a>
-    <a href="https://yarnpkg.com/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yarn/yarn-original.svg" height="40" alt="Yarn logo" />
     </a>
     <a href="https://wordpress.org/" target="_blank">
       <img src="https://www.svgrepo.com/show/475696/wordpress-color.svg" height="40" alt="WordPress logo" />
