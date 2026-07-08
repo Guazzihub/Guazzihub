@@ -1,5 +1,3 @@
-**Automation & Integration Engineer | AI Workflows, APIs, n8n, LLMs, RAG & Process Automation**
-
 I design and build automation workflows, API integrations and AI-assisted systems that connect processes, platforms and data. My focus is on replacing manual operational steps with traceable, documented and maintainable workflows.
 
 Public repositories here are built with mock or sanitized data. They are intended to demonstrate architecture, integration patterns, documentation standards and engineering practices without exposing private business information.
