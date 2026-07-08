@@ -1,92 +1,32 @@
-<div>
-  <h1 align="left">
-    Backend:  
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" height="40" alt="JavaScript logo" />
-    </a>
-    <a href="https://www.python.org/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" alt="Python logo" />
-    </a>
-    <a href="https://www.mysql.com/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" />
-    </a>
-    <a href="https://www.postgresql.org/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" height="40" alt="PostgreSQL logo" />
-    </a>
-    <a href="https://redis.io/" target="_blank">
-      <img src="https://www.svgrepo.com/show/354272/redis.svg" height="40" alt="Redis logo" />
-    </a>
-    <a href="https://supabase.com/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" height="40" alt="Supabase logo" />
-    </a>
-  </h1>
-</div>
+**Automation & Integration Engineer | AI Workflows, APIs, n8n, LLMs, RAG & Process Automation**
 
-<br>
+I design and build automation workflows, API integrations and AI-assisted systems that connect processes, platforms and data. My focus is on replacing manual operational steps with traceable, documented and maintainable workflows.
 
-<div>
-  <h1 align="left">
-    Frontend:
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" height="40" alt="HTML5 logo" />
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" height="40" alt="CSS3 logo" />
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" height="40" alt="JavaScript logo" />
-    </a>
-  </h1>
-</div>
+Public repositories here are built with mock or sanitized data. They are intended to demonstrate architecture, integration patterns, documentation standards and engineering practices without exposing private business information.
 
-<br>
+---
 
-<div>
-  <h1 align="left">
-    Frameworks: 
-    <a href="https://nodejs.org/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain.svg" height="40" alt="Node.js logo" />
-    </a>
-    <a href="https://expressjs.com/" target="_blank">
-      <img src="https://www.guayerd.com/wp-content/uploads//2021/04/expressjs-logo.svg" height="40" alt="Express.js logo" />
-    </a>
-    <a href="https://jquery.com/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-plain.svg" height="40" alt="jQuery logo" />
-    </a>
-    <a href="https://tailwindcss.com/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind CSS logo" />
-    </a>
-  </h1>
-</div>
+## What I build
 
-<br>
+- **Workflow automation:** n8n, Make, Zapier, Power Automate, event-driven flows, retries, alerts and operational logs.
+- **System integrations:** REST/SOAP APIs, webhooks, MS Graph, CRM integrations, databases and data validation.
+- **AI workflows:** LLM-based assistants, RAG, prompt versioning, structured outputs and human handoff.
+- **Automation reliability:** documentation, observability, error handling, idempotency and maintainable processes.
+- **Marketing & CRM operations:** GTM, Analytics, Manychat, CRM automations and lead journey tracking.
 
-<div>
-  <h1 align="left">
-    Tools: 
-    <a href="https://code.visualstudio.com/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40" alt="VSCode logo" />
-    </a>
-    <a href="https://www.docker.com/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" height="40" alt="Docker logo" />
-    </a>
-    <a href="https://wordpress.org/" target="_blank">
-      <img src="https://www.svgrepo.com/show/475696/wordpress-color.svg" height="40" alt="WordPress logo" />
-    </a>
-    <a href="https://git-scm.com/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" alt="Git logo" />
-    </a>
-    <a href="https://n8n.io/" target="_blank">
-      <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.45.0/files/dark/n8n-color.png" height="40" alt="N8N logo" />
-    </a>
-    <a href="https://www.postman.com/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-plain.svg" height="40" alt="Postman logo" />
-    </a>
-    <a href="https://ubuntu.com/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" height="40" alt="Ubuntu logo" />
-    </a>
-  </h1>
-</div>
+---
+
+## Core stack
+
+| Area | Technologies |
+|---|---|
+| Automation | n8n, Make, Zapier, Power Automate, Webhooks |
+| APIs & Integrations | REST, SOAP, MS Graph, JWT, ETL, Postman |
+| AI | LLMs, RAG, Prompt Engineering, PGVector, Whisper |
+| Development | JavaScript, Python, Node.js, PowerShell, Bash, Docker, Git |
+| Databases | MySQL, PostgreSQL, Oracle DB, Redis, Supabase |
+| Process & Governance | BPMN, Kanban, Scrum, technical documentation, LGPD-aware workflows |
+| Marketing Tech | Google Tag Manager, Google Analytics, Meta Ads, Google Ads, Manychat, CRM |
 
 
 <br>
