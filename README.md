@@ -21,27 +21,26 @@ Public repositories here are built with mock or sanitized data. They are intende
 | Automation | n8n, Make, Zapier, Power Automate, Webhooks |
 | APIs & Integrations | REST, SOAP, MS Graph, JWT, ETL, Postman |
 | AI | LLMs, RAG, Prompt Engineering, PGVector, Whisper |
-| Development | JavaScript, Python, Node.js, PowerShell, Bash, Docker, Git |
+| Development | JavaScript, TypeScript, Python, Node.js, PowerShell, Bash, Docker, Git |
 | Databases | MySQL, PostgreSQL, Oracle DB, Redis, Supabase |
 | Process & Governance | BPMN, Kanban, Scrum, technical documentation, LGPD-aware workflows |
 | Marketing Tech | Google Tag Manager, Google Analytics, Meta Ads, Google Ads, Manychat, CRM |
 
-
 <br>
-  
+
 <div>
   <picture align="left">
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/GuazziHub/GuazziHub/output/github-contribution-grid-snake.svg"
+    srcset="https://raw.githubusercontent.com/Guazzihub/Guazzihub/output/github-contribution-grid-snake.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/GuazziHub/GuazziHub/output/github-contribution-grid-snake-light.svg"
+    srcset="https://raw.githubusercontent.com/Guazzihub/Guazzihub/output/github-contribution-grid-snake-light.svg"
   />
    <img
-      src="https://raw.githubusercontent.com/GuazziHub/GuazziHub/output/output/github-contribution-grid-snake.svg"
-      alt="Snake"
+      src="https://raw.githubusercontent.com/Guazzihub/Guazzihub/output/github-contribution-grid-snake.svg"
+      alt="Snake eating my contribution graph"
     />
   </picture>
 </div>
