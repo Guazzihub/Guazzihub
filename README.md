@@ -1,46 +1,37 @@
-I design and build automation workflows, API integrations and AI-assisted systems that connect processes, platforms and data. My focus is on replacing manual operational steps with traceable, documented and maintainable workflows.
+# Matheus Guazzi Lopes
 
-Public repositories here are built with mock or sanitized data. They are intended to demonstrate architecture, integration patterns, documentation standards and engineering practices without exposing private business information.
+Automation & Integration Specialist working with n8n, APIs and applied AI. Based in Brazil, open to fully remote roles (Brazil or international teams).
 
----
+I connect business processes, databases, SaaS platforms and AI services. I usually own the whole job: gathering requirements, designing the flow, building it, testing failure cases, adding logs and retries, and writing the documentation someone else can maintain.
 
-## What I build
+Some results from past work:
 
-- **Workflow automation:** n8n, Make, Zapier, Power Automate, event-driven flows, retries, alerts and operational logs.
-- **System integrations:** REST/SOAP APIs, webhooks, MS Graph, CRM integrations, databases and data validation.
-- **AI workflows:** LLM-based assistants, RAG, prompt versioning, structured outputs and human handoff.
-- **Automation reliability:** documentation, observability, error handling, idempotency and maintainable processes.
-- **Marketing & CRM operations:** GTM, Analytics, Manychat, CRM automations and lead journey tracking.
+- Sales calls of 20 to 30 minutes turned into a BANT analysis in under five minutes (Slack, Node.js, Whisper, Make).
+- WhatsApp chatbots with RAG, calendar booking and human handoff, built on n8n and Evolution API.
+- Asset tracking and reverse logistics automated across Oracle DB, MySQL, Outlook and the Correios SOAP API.
 
----
+Public repositories use mock or sanitized data.
 
-## Core stack
+## Selected work
 
-| Area | Technologies |
+- [Chatbot AI Assistant](https://github.com/Guazzihub/Chatbot-AI-Assistant): WhatsApp service workflow with n8n, Evolution API, RAG, PGVector, Redis, voice messages, scheduling and human handoff.
+- [Job Hunter](https://github.com/Guazzihub/Job-hunter): job discovery and application tracking with multi-source ingestion, deduplication and AI-assisted matching.
+- [Sieve](https://github.com/Guazzihub/Sieve): tested Python plugin for Claude Code that filters noisy command output and keeps the raw output recoverable.
+- [Peacekeep](https://github.com/Guazzihub/Peacekeep): bilingual AI rewriting app built with React, TypeScript and Cloudflare Workers.
+
+## Stack
+
+| Area | Tools |
 |---|---|
-| Automation | n8n, Make, Zapier, Power Automate, Webhooks |
-| APIs & Integrations | REST, SOAP, MS Graph, JWT, ETL, Postman |
-| AI | LLMs, RAG, MCP, Prompt Engineering, PGVector, Whisper |
-| Development | JavaScript, Python, Node.js, PowerShell, Bash, Docker, Git |
-| Databases | MySQL, PostgreSQL, Oracle DB, Redis, Supabase |
-| Process & Governance | BPMN, Kanban, Scrum, technical documentation, LGPD-aware workflows |
-| Marketing Tech | Google Tag Manager, Google Analytics, Meta Ads, Google Ads, Manychat, CRM |
+| Automation | n8n, Make, Power Automate, Zapier, webhooks |
+| Integrations | REST, SOAP, JSON, OAuth, Postman |
+| AI | LLMs, RAG, PGVector, tool calling, Whisper |
+| Data | PostgreSQL, MySQL, Oracle DB, Redis, ETL |
+| Runtime | Node.js, JavaScript, Python, Docker Compose, Linux |
+| Process | Requirements, BPMN, testing, documentation. MBA in Project Management and Agile Methods (2026) |
 
-<br>
+## Contact
 
-<div>
-  <picture align="left">
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Guazzihub/Guazzihub/output/github-contribution-grid-snake.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Guazzihub/Guazzihub/output/github-contribution-grid-snake-light.svg"
-  />
-   <img
-      src="https://raw.githubusercontent.com/Guazzihub/Guazzihub/output/github-contribution-grid-snake.svg"
-      alt="Snake eating my contribution graph"
-    />
-  </picture>
-</div>
+- Portfolio: [dev.matheusguazzi.com.br](https://dev.matheusguazzi.com.br)
+- LinkedIn: [linkedin.com/in/mguazzilopes](https://www.linkedin.com/in/mguazzilopes/)
+- Email: contato@matheusguazzi.com.br
