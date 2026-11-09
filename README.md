@@ -17,7 +17,7 @@ Public repositories use mock or sanitized data.
 - [Chatbot AI Assistant](https://github.com/Guazzihub/Chatbot-AI-Assistant): WhatsApp service workflow with n8n, Evolution API, RAG, PGVector, Redis, voice messages, scheduling and human handoff.
 - [Job Hunter](https://github.com/Guazzihub/Job-hunter): job discovery and application tracking with multi-source ingestion, deduplication and AI-assisted matching.
 - [Sieve](https://github.com/Guazzihub/Sieve): tested Python plugin for Claude Code that filters noisy command output and keeps the raw output recoverable.
-- [Peacekeep](https://github.com/Guazzihub/Peacekeep): bilingual AI rewriting app built with React, TypeScript and Cloudflare Workers.
+- [Peacekeep](https://github.com/Guazzihub/Peacekeep): bilingual AI rewriting app built with React, TypeScript and Cloudflare Pages Functions.
 
 ## Stack
 
